@@ -1,0 +1,25 @@
+.choiceButton{
+    line-height: 30px;
+    width: 150px;
+    border-radius: 25px;
+    font-family: Impact;
+    background-color: rgb(237, 167, 15);
+}
+
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #b4e8eb;
+    text-align: center;
+}
+
+#playerText{
+    color: #2bad0b;
+}
+
+#computerText{
+    color: #d71c57;
+}
+
